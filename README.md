@@ -1,5 +1,7 @@
 # Streamlit_30Day
-## 初學 Streamlit 
+## 初學 Streamlit
+第一次觸碰 Streamlit 發現他在很多方面蠻好用的
+寫下一些小功能讓自己練習一下
 ## 連結
 [Day02 - write 輸出](https://github.com/nigunosong88/Streamlit_30Day/tree/main/Day02)\
 [Day03 - button 按鈕](https://github.com/nigunosong88/Streamlit_30Day/tree/main/Day03)\
